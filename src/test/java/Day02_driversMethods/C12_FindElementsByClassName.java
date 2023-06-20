@@ -52,7 +52,7 @@ Thread.sleep(1000);
             }
         }
         System.out.println();
-        System.out.println("The higest price : " + highestNumber);
+        System.out.println("The highest price : " + highestNumber);
         Thread.sleep(2000);
 driver.close();
     }
